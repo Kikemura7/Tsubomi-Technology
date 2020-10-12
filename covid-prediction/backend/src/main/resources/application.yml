@@ -1,0 +1,7 @@
+spring:
+    main:
+        lazy-initialization: true
+    application:
+        name: demoservice
+server:
+    port: 8080
